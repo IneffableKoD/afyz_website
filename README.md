@@ -1,3 +1,3 @@
-# ineffablekod.github.io
+# AFYZ
 
-Repository for my personal website.
+Repository for my personal brand.
