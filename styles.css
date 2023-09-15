@@ -54,6 +54,6 @@ a {
 
 @media all (max-width: 480px) {
     #console {
-      font-size: 6vmin;
+        font-size: 6vmin;
     }
-  }
+}
