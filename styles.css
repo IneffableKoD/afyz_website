@@ -52,6 +52,11 @@ a {
     font-size: x-small;
 }
 
+/* This targets the link specifically inside the #al container */
+#al a {
+    color: #FF6E4A;
+}
+
 @media all (max-width: 480px) {
     #console {
         font-size: 6vmin;
